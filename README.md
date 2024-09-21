@@ -17,3 +17,7 @@ To install the required libraries, run:
 ```bash
 pip install kaggle pyspark nltk
 ```
+## Project Structure
+
+- `Market-Basket-Analysis-Project.ipynb`: Contains the Jupyter notebooks for data exploration and model training.
+- `MassiveDatasets_Report.pdf`: Contains the Report with the description of the results
