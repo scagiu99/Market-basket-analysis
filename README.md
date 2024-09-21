@@ -8,6 +8,7 @@ This project aims to perform a Market Basket Analysis from scratch using the Apr
 - `kaggle`
 - `pyspark`
 - `nltk`
+- `pyspark.mllib`
 
 ## Installation
 
